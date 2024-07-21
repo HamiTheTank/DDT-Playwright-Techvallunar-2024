@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Produktart": "Eau de Parfum",
+        "Marke": "Prada",
+        "FurWen": "Weiblich",
+        "Highlights": "",
+        "GeschenkFur": "Geburtstag",
+        "ExpectedCount": 2
+    },
+    {
+        "Produktart": "",
+        "Marke": "",
+        "FurWen": "Unisex",
+        "Highlights": "Limitiert",
+        "GeschenkFur": "",
+        "ExpectedCount": 90
+    }
+]

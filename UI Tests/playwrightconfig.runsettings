@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <Playwright>
+
+	<BrowserName>chromium</BrowserName>
+	<LaunchOptions>
+		<Headless>false</Headless>
+		<Channel>chrome</Channel>
+		<args></args>
+	</LaunchOptions>
+	
+	<!--
+	<BrowserName>chromium</BrowserName>
+	<LaunchOptions>
+		<Headless>false</Headless>
+		<Channel>msedge</Channel>
+		<args></args>
+	</LaunchOptions>
+	  -->
+
+	<!--
+	<BrowserName>firefox</BrowserName>
+	<LaunchOptions>
+		<Headless>false</Headless>
+		<Channel>firefox</Channel>
+		<args></args>
+	</LaunchOptions>
+	  -->
+
+	<!--
+	<BrowserName>webkit</BrowserName>
+	<LaunchOptions>
+		<Headless>false</Headless>
+		<Channel>webkit</Channel>
+		<args></args>
+	</LaunchOptions> 
+	-->
+	  
+  </Playwright>
+</RunSettings>
